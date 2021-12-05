@@ -23,7 +23,7 @@ Go to loader mods section on the 'edit instance' window and drag the extracted o
 
 Now launch the game and enjoy!
 <img width="1440" alt="Screen Shot 2021-12-04 at 2 25 29 PM" src="https://user-images.githubusercontent.com/95017233/144706982-10f327b1-4649-471f-85e4-6f10beeac898.png">
-#Issue(s)
+# Issue(s)
 1.Fullscreen mode unavailable
 
 If you're using an Apple-silicon mac like I do, Try m1-multimc-hack for better performance:
