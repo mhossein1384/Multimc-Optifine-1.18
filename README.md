@@ -1,5 +1,5 @@
 
-# MC-Optifine-1.18
+# MC-Optifine-1.18.x
 Optifine on Multimc(Minecraft v1.18)(With M1)
 # How To Install Optifine To Minecraft Using Multimc
 First Download Optifine and Optifabric from links below
@@ -30,7 +30,6 @@ Now launch the game and enjoy!
 
 https://github.com/yusefnapora/m1-multimc-hack
 
-3.v1.18.1 will be available when optifabric 1.18.1 is available.
-
-4.Working shaders with optimized settings are available on releases page:
+3.Working shaders with optimized settings are available on releases page:
 https://github.com/mhossein1384/Multimc-Optifine-1.18/releases
+
