@@ -33,3 +33,4 @@ https://github.com/yusefnapora/m1-multimc-hack
 3.Working shaders with optimized settings are available on releases page:
 https://github.com/mhossein1384/Multimc-Optifine-1.18/releases
 
+4.For every version you must download the version's optifine and optifabric.
