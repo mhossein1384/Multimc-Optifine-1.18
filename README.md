@@ -32,3 +32,4 @@ https://github.com/yusefnapora/m1-multimc-hack
 
 3.v1.18.1 will be available when optifabric 1.18.1 is available.
 
+4.Working shaders with optimized settings are available on releases page.
