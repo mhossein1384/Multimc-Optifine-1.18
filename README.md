@@ -36,6 +36,8 @@ https://github.com/mhossein1384/Multimc-Optifine-1.18/releases
 
 4.For every version you must download the version's optifine and optifabric.
 
+5.The new version of Multimc (6.14) now supports forge for 1.17.x and 1.18.x so you can use forge for optifine but on m1 macs use the fabric method.
+
 # Gameplays
 
 # Sildur High MB Optimized
