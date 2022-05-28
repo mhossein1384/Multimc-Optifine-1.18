@@ -26,9 +26,13 @@ Now launch the game and enjoy!
 # Notes & Issues
 1.Fullscreen mode unavailable
 
-2.If you're using an Apple-silicon mac like I do, Try m1-multimc-hack for better performance:
+2.If you're using an Apple-silicon mac like I do you can use:
 
-https://github.com/yusefnapora/m1-multimc-hack
+https://github.com/yusefnapora/m1-multimc-hack (not reccommended after 1.18(old binaries)
+
+https://gist.github.com/nikhiljha/7313ac5553aafb1c8596b1fca0f4cdff (reccommended if you want MultiMC)
+
+https://github.com/MinecraftMachina/ManyMC (a fork of multimc with native m1 support)
 
 
 3.Working shaders with optimized settings are available on releases page:
@@ -40,6 +44,6 @@ https://github.com/mhossein1384/Multimc-Optifine-1.18/releases
 
 # Gameplays
 
-# Sildur High MB Optimized
+# Sildur High MB Optimized 1.18
 
 https://uupload.ir/view/screen_recording_2021-12-14_at_9.45.22_pm_10he.mp4/
