@@ -23,10 +23,9 @@ Go to loader mods section on the 'edit instance' window and drag the extracted o
 
 Now launch the game and enjoy!
 <img width="1440" alt="Screen Shot 2021-12-04 at 2 25 29 PM" src="https://user-images.githubusercontent.com/95017233/144706982-10f327b1-4649-471f-85e4-6f10beeac898.png">
-# Notes & Issues
-1.Fullscreen mode unavailable
+# Notes
 
-2.If you're using an Apple-silicon mac like I do you can use:
+1.If you're using an Apple-silicon mac like I do you can use:
 
 https://github.com/yusefnapora/m1-multimc-hack (not reccommended after 1.18(old binaries)
 
@@ -34,13 +33,14 @@ https://gist.github.com/nikhiljha/7313ac5553aafb1c8596b1fca0f4cdff (reccommended
 
 https://github.com/MinecraftMachina/ManyMC (a fork of multimc with native m1 support)
 
+fullscreen is fixed on 1.19
 
-3.Working shaders with optimized settings are available on releases page:
+2.Working shaders with optimized settings are available on releases page:
 https://github.com/mhossein1384/Multimc-Optifine-1.18/releases
 
-4.For every version you must download the version's optifine and optifabric.
+3.For every version you must download the version's optifine and optifabric.
 
-5.The new version of Multimc (6.14) now supports forge for 1.17.x and 1.18.x so you can use forge for optifine but on m1 macs use the fabric method.
+4.The new version of Multimc (6.14) now supports forge for 1.17.x and 1.18.x so you can use forge for optifine but on m1 macs use the fabric method.
 
 # Gameplays
 
